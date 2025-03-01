@@ -30,7 +30,7 @@ git clone https://github.com/wjbg/jl.CLT.git
 Alternatively, you can also download this repository as zip file by
 clicking the green button at the top of this page. All functions are
 reasonably well-documented and the two annotated examples in the
-`example` folder should be sufficient to get you started.
+`examples` folder should be sufficient to get you started.
 
 ## License
 
